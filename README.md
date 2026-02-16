@@ -1,2 +1,2 @@
-# conditionals_statement.js
-what is conditional statement in javaScript.
+# javaScript_course.js
+what is javaScript(programming language.
